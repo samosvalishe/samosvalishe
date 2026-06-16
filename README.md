@@ -32,11 +32,9 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=samosvalishe&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0a0a0a&text_color=ffffff&icon_color=C8102E&title_color=C8102E" alt="stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samosvalishe&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0a0a0a&text_color=ffffff&title_color=C8102E" alt="langs" />
-
 <br/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samosvalishe&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0a0a0a&text_color=ffffff&title_color=C8102E" alt="langs" />
+<br/>
 <img src="https://streak-stats.demolab.com?user=samosvalishe&hide_border=true&background=0a0a0a&stroke=0A3161&ring=C8102E&fire=FFD700&currStreakLabel=C8102E&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&dayNum=ffffff" alt="streak" />
 
 <br/>
