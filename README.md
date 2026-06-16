@@ -31,7 +31,7 @@
 <!-- ===================== STATS ===================== -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samosvalishe&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&text_color=ffffff&icon_color=C8102E&title_color=C8102E" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samosvalishe&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0a0a0a&text_color=ffffff&icon_color=C8102E&title_color=C8102E" alt="stats" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samosvalishe&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0a0a0a&text_color=ffffff&title_color=C8102E" alt="langs" />
 
@@ -44,7 +44,4 @@
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=samosvalishe&bg_color=0a0a0a&color=C8102E&line=C8102E&point=FFD700&area=true&area_color=0A3161&hide_border=true&custom_title=ACTIVITY%20//%20COMPOUND%20V%20LEVELS" alt="activity" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=samosvalishe&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
-
 </div>
